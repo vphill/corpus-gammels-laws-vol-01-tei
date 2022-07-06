@@ -13,7 +13,6 @@
 			<p></p>
 		</sourceDesc>
 		</fileDesc>
-		</profileDesc>
 	</teiHeader>
 	<text>
 		<front>
@@ -21,13 +20,8 @@
 		</front>
 		<group>
 		  <text>
- 	            <body>
-		      <!-- body of first unitary text  -->
-		    </body>
-		  </text>
-		  <text>
-		    <body>
-		      <!-- body of second unitary text -->
+ 	        <body>
+		      <xi:include href="05-fredonian-declaration-of-independence-1826.xml" />
 		    </body>
 		  </text>
 		</group>
