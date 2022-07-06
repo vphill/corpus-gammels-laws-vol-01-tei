@@ -16,8 +16,23 @@
 		</profileDesc>
 	</teiHeader>
 	<text>
-		<body>
+		<front>
 			<xi:include href="00_front.xml"/>
-		</body>
+		</front>
+		<group>
+		  <text>
+ 	            <body>
+		      <!-- body of first unitary text  -->
+		    </body>
+		  </text>
+		  <text>
+		    <body>
+		      <!-- body of second unitary text -->
+		    </body>
+		  </text>
+		</group>
+		<back>
+		  <!-- back matter of first unitary text, if any -->
+		</back>
 	</text>
 </TEI>
