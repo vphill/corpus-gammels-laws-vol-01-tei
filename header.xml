@@ -19,11 +19,7 @@
 			<xi:include href="00_front.xml"/>
 		</front>
 		<group>
-		  <text>
- 	        <body>
 		      <xi:include href="05-fredonian-declaration-of-independence-1826.xml" />
-		    </body>
-		  </text>
 		</group>
 		<back>
 		  <!-- back matter of first unitary text, if any -->
