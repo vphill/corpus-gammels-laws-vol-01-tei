@@ -1,0 +1,23 @@
+<TEI xmlns:xi="http://www.w3.org/2003/XInclude">
+	<teiHeader>
+		<fileDesc>
+		<titleStmt>
+			<title>
+				The Laws of Texas, 1822-1897 Volume 1
+			</title>
+		</titleStmt>
+		<publicationStmt>
+			<p></p>
+		</publicationStmt>
+		<sourceDesc>
+			<p></p>
+		</sourceDesc>
+		</fileDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<xi:include href="00_front.xml"/>
+		</body>
+	</text>
+</TEI>
