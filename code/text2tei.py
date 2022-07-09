@@ -9,8 +9,9 @@ def filename_to_seq_number(filename):
     seq = filename[:len(filename)//2] # Split filename in half, first part
     pages = filename[len(filename)//2:] # Split filename in half, last part
     seq = seq.lstrip('0')
+    page_id = "P{}".format(pages) # we want the identifier before we strip the leading zeros
     pages = pages.lstrip('0')
-    page_id = "P{}".format(pages)
+
 
     return seq, pages, page_id
 
