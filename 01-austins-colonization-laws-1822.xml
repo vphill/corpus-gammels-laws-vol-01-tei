@@ -1,4 +1,4 @@
-<text><front /><body><div type="document"><pb n="1" xml:id="P1" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/9/" /><p>LAWS, ORDERS
+<text><front><pb n="1" xml:id="P1" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/9/" /><p>LAWS, ORDERS
 AND
 CONTRACT ON COLONIZATION
 1821 TO 1829
@@ -6,14 +6,27 @@ UNDER WHICH COLONEL STEPHEN F. AUSTIN INTRODUCED
 AND SETTLED EMIGRANTS IN TEXAS.
 Translated from TEED Spanish.
 SALTILLO.
-1829</p><pb n="2" xml:id="P2" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/10/" /><p /><pb n="3" xml:id="P3" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/11/" /><p>LAWS, ORDERS
+1829</p>
+</front>
+
+
+<pb n="2" xml:id="P2" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/10/" />
+
+<body><div type="document">
+<pb n="3" xml:id="P3" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/11/" />
+
+<head>LAWS, ORDERS
 AND
-CONTRACTS FOR AUSTIN’S COLONY.
+CONTRACTS FOR AUSTIN’S COLONY.</head>
+
+<epitaph>
 Translation of the Laws, Orders and Contracts on Colonisation from
 January, 1821, uf to 1829; in virtue of which, Colonel Stef hen F.
 Austin introduced and settled foreign emigrants in Texas: with an
-Exflanatory introduction.
-INTRODUCTION.
+Exflanatory introduction.</epitaph>
+
+<head>INTRODUCTION.</head>
+<p>
 To the Settlers in what is called Austin's Colony," in Texas.
 In order that the settlers, who have been established in Texas, under
 the authority granted by the government, to Mr. Stephen Fuller Austin,
@@ -27,6 +40,8 @@ far as it was practicable to give publicity to them in that shape, and the
 originals have always been open to the inspection of any one who called
 at the office for that purpose. The earliest, and only opportunity which
 has ever occurred, of publishing them in print, is now embraced.
+</p>
+<p>
 The idea of forming a settlement of North Americans in the wilder<pc force="weak">-</pc><lb break="no" />ness
 of Texas, originated with Mr. Moses Austin, of Missouri, and after
 the conclusion of De Onis’s treaty in 1819, efforts were made by him to
@@ -44,8 +59,10 @@ that time, there were but three families at Long Prairie, and Hempstead
 county had just begun to settle. In answer to the inquiries of the elder
 Austin, as to the best mode of laying the subject before the Spanish gov<pc force="weak">-</pc><lb break="no" />ernment,
 he was advised to apply to the Spanish authorities of New
-(3)</p><pb n="4" xml:id="P4" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/12/" /><p>4
-Laws, Orders and Contracts
+
+<pb n="4" xml:id="P4" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/12/" />
+<fw type="header" place="top">Laws, Orders and Contracts</fw>
+
 Spain. He accordingly undertook the journey, from Missouri to the capi<pc force="weak">-</pc><lb break="no" />tal
 of the province of Texas. The information collected by the younger
 Austin, on Red river, had convinced him that the route by way of Natch<pc force="weak">-</pc><lb break="no" />itoches,-or
@@ -61,7 +78,8 @@ preparatory arrangements in New Orleans, for facilitating the transpor<pc force=
 of families, furnishing supplies, &amp;c., and also, to be ready to pro<pc force="weak">-</pc><lb break="no" />ceed
 to the Havana, in the event of its being necessary to have recourse
 to the government in Spain.
-The elder Austin arrived at Bexar, the capital of Texas, early in De<pc force="weak">-</pc><lb break="no" />cember,
+</p>
+<p>The elder Austin arrived at Bexar, the capital of Texas, early in De<pc force="weak">-</pc><lb break="no" />cember,
 1820, and, on presenting himself to the governor, he received
 a peremptory order to leave that capital instantly, and the province, as
 soon as he could get out of it. This order was issued in consequence
@@ -79,7 +97,8 @@ presented by Mr. Austin, asking for permission to settle three hundred
 families in Texas; which was sent on to the superior government of the
 eastern internal provinces, strongly recommended by the local authori<pc force="weak">-</pc><lb break="no" />ties
 of this province.
-He left Bexar in January and arrived in Missouri in the spring, and
+</p>
+<p>He left Bexar in January and arrived in Missouri in the spring, and
 immediately set about making the necessary preparations for a removal
 to Texas, as soon as he should hear of the success of his application. His
 preparations, however, were greatly retarded by ill health, and on his
@@ -96,10 +115,15 @@ Missouri, a few days after he had received information of the success
 of his application. He left a request that his son Stephen should prose<pc force="weak">-</pc><lb break="no" />cute
 the enterprise, which he had thus commenced, of forming a settle<pc force="weak">-</pc><lb break="no" />ment
 in Texas.
-Mr. Moses Austin was a native of Durham, in the state of Connecticut,
+</p>
+<p>Mr. Moses Austin was a native of Durham, in the state of Connecticut,
 and much distinguished for enterprise and perseverance. At the age of
-(4)</p><pb n="5" xml:id="P5" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/13/" /><p>for Austin’s Colony.
-5
+
+
+<pb n="5" xml:id="P5" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/13/" />
+
+<fw type="header" place="top">for Austin’s Colony.</fw>
+
 twenty he married Miss Maria Brown, in Philadelphia, and soon after
 established a commercial house in Richmond, Virginia, in partnership
 with his brother Stephen, who was at the head of an extensive import<pc force="weak">-</pc><lb break="no" />ing
@@ -130,8 +154,9 @@ in fact, brought on another reverse of fortune, and caused him to turn,
 with unabated ardor, in the decline of life, to a new and hazardous enter<pc force="weak">-</pc><lb break="no" />prise,
 in the wilderness of Texas.—It is hoped the reader will pardon
 this digression; it was thought due to the real author of that enterprise,
-which has led to our location in this country.
-The memorial of Moses Austin was granted on the 17th of January,
+which has led to our location in this country.</p>
+
+<p>The memorial of Moses Austin was granted on the 17th of January,
 1821, by the supreme government of the eastern internal provinces of
 New Spain at Monterey. It gave permission to said Austin to introduce
 three hundred families in Texas. A special commissioner was despatched
@@ -140,8 +165,9 @@ general, Don Joaquin de Aredondo, to the United States, for the
 purpose of communicating to Mr. Austin the result of his application,
 and of conducting the said families, in a legal manner, into the country.
 This commissioner was Don Erasmo Seguin, a very respectable citizen
-of Bexar.
-S. F. Austin, who was in New Orleans, as before stated, having re<pc force="weak">-</pc><lb break="no" />ceived
+of Bexar.</p>
+
+<p>S. F. Austin, who was in New Orleans, as before stated, having re<pc force="weak">-</pc><lb break="no" />ceived
 information of the arrival of the commissioner, Don Erasmo Se<pc force="weak">-</pc><lb break="no" />guin,
 at Natchitoches, proceeded to that place, and there heard the death
 of his father. He then determined to accompany the said commissioner
@@ -152,13 +178,17 @@ company with said commissioner, and some other gentlemen from Bexar,
 among whom was Don Juan Martin Berrimendi, also a respectable citi<pc force="weak">-</pc><lb break="no" />zen
 of that place. The whole company arrived in the capital of Texas,
 on the 10th of August, by the upper or San Antonio road. He was
-(5.)</p><pb n="6" xml:id="P6" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/14/" /><p>6
-Laius, Orders and Contracts
+
+<pb n="6" xml:id="P6" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/14/" />
+
+<fw type="header" place="top">Laws, Orders and Contracts</fw>
+
 kindly received by governor Martinez, who granted him a general per<pc force="weak">-</pc><lb break="no" />mission
 to explore the country on the Colorado river, sound its en<pc force="weak">-</pc><lb break="no" />trance,
 harbor, &amp;c., and select such a situation as he might consider the
-most advantageous for the new settlement.
-The governor requested Austin verbally, to furnish a plan for the dis<pc force="weak">-</pc><lb break="no" />tribution
+most advantageous for the new settlement.</p>
+
+<p>The governor requested Austin verbally, to furnish a plan for the dis<pc force="weak">-</pc><lb break="no" />tribution
 of land to the new settlers; he accordingly-proposed one, which,
 in his opinion, was sufficiently advantageous to the settlers, and at the
 same time, adapted to the wilderness state of the country, which required
@@ -170,8 +200,9 @@ and sixty acres in addition for each child, and eighty acres in addition
 for each slave. This plan was presented in writing, and Austin received
 authority from the governor to promise that quantity to the settlers.
 He was also commissioned by the governor to take charge of the local
-government of the new settlement, until it could be otherwise organised.
-He departed from Bexar the last of August, and from La Bahia, (now
+government of the new settlement, until it could be otherwise organised.</p>
+
+<p>He departed from Bexar the last of August, and from La Bahia, (now
 Goliad,) the 10th of September. At the latter place he procured a guide
 from the alcalde, in virtue of an order to that effect from the governor.
 His company was now reduced to nine men, the others having returned
@@ -206,8 +237,10 @@ showed the utter impracticability of attempting to raise it by voluntary
 contribution or subscription amongst the settlers, and the plan of a tax
 on each settler would have been kindling a volcano under the cradle of
 the enterprise. There was, in fact, no other safe mode but to make it
-(6)</p><pb n="7" xml:id="P7" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/15/" /><p>for Austin’s Colony.
-7
+
+<pb n="7" xml:id="P7" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/15/" />
+<fw type="header" place="top">for Austin’s Colony.</fw>
+
 a matter of voluntary contract, formed and entered into, by and between
 Austin on the one part, and the settlers on the other; and in order to
 give due notice of said contract, to all concerned, it was published in
@@ -242,6 +275,8 @@ little would have been left, at best, after paying the expense of surveying,
 the office fees, the commissioner’s fees, the stamp paper, and defraying
 the other necessary expenses; the object, therefore, must have been the
 general good of all, and not the private speculation of one individual.
+</p>
+<p>
 In December, 1821, Austin arrived on the river Brazos, at the La
 Bahia road with the first emigrants, and the new settlement.was com<pc force="weak">-</pc><lb break="no" />menced
 in the midst of an entire wilderness. Without entering into a
@@ -250,18 +285,23 @@ and dangers that were surmounted by the first emigrants, it is
 sufficient to say, that such a detail would present examples of inflexible
 perseverance and fortitude, on the part of those settlers, which have
 been seldom equalled, in any country or in any enterprise.
-In March, Austin proceeded to Bexar, to make his report to the gover<pc force="weak">-</pc><lb break="no" />nor,
+</p>
+<p>In March, Austin proceeded to Bexar, to make his report to the gover<pc force="weak">-</pc><lb break="no" />nor,
 where he was informed for the first time, that it would be necessary
 for him to proceed immediately to the city of Mexico, in order to pro<pc force="weak">-</pc><lb break="no" />cure
 from the Mexican congress, then in session, a confirmation of the
 permission to Moses Austin, and receive special instructions, as to the
 distribution of land, the issuing of titles, &amp;c.
+</p>
+<p>
 It should have been stated before, that Austin received the first posi<pc force="weak">-</pc><lb break="no" />tive
 information of the revolution, and plan of Iguala, of the 24th Feb<pc force="weak">-</pc><lb break="no" />ruary,
 1821; and of the complete independence of Mexico, on his arrival
 at Bexar, in August of that year; so that the official acts of governor
-(7 )</p><pb n="8" xml:id="P8" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/16/" /><p>8
-Laws, Orders and Contracts
+
+<pb n="8" xml:id="P8" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/16/" />
+<fw type="header" place="top">Laws, Orders and Contracts</fw>
+
 Martinez, relative to the new settlement, dated in August, 1821, were
 from a governor of the independent Mexican nation, and not from a
 Spanish governor. For this reason, the intimation as to the trip to
@@ -270,7 +310,8 @@ on any thing of the kind, he had not made the necessary prepara<pc force="weak">
 for such a journey. There was no time for hesitation; arrange<pc force="weak">-</pc><lb break="no" />ments
 were made for Mr. Josiah H. Bell to take charge of the new set<pc force="weak">-</pc><lb break="no" />tlement,
 and Austin departed for Mexico, a journey of 1200 miles by
-land.
+land.</p>
+<p>
 The Mexican nation had just sprung into existence. The galling
 chains of Spanish despotism had been gloriously thrown off, but the
 necessary restraint of law, system, and local police, had not yet been
@@ -286,8 +327,9 @@ themselves, in ragged clothes, with blankets, &amp;c.,. in the same
 style, as to pass for very poor men, who were going to Mexico, to petition
 for compensation for services, in the revolution. Their passports ex<pc force="weak">-</pc><lb break="no" />plained
 to the several authorities, as they passed, who they were, and
-many friendly cautions were given as to the robbers.
-The national congress had been in session since the 24th of February
+many friendly cautions were given as to the robbers.</p>
+
+<p>The national congress had been in session since the 24th of February
 of that year. The form of government, as then established, was a limited
 monarchy, in conformity with the plan of Iguala, and treaty of Cordova,
 and the Spanish constitution was provisionally adopted. The executive de<pc force="weak">-</pc><lb break="no" />partment
@@ -314,11 +356,14 @@ in the strees, proclaimed to the true friends of freedom, that a few com<pc forc
 soldiers, in union with a city mob, had taken it upon themselves
 to decide the destiny of Mexico, and to utter the voice of the nation.
 The session of congress on the 19 th was held, surrounded with bayonets,
-(8)</p><pb n="9" xml:id="P9" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/17/" /><p>for Austin’s Colony.
-9
+
+<pb n="9" xml:id="P9" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/17/" />
+<fw type="header" place="top">for Austin’s Colony.</fw>
+
 and the man who was thus proclaimed by a rabble, amidst darkness and
 tumult, was declared by a decree of the majority of that body, to be
-emperor of Mexico.
+emperor of Mexico.</p>
+<p>
 In such a state of political affairs, all that a person could do, who
 had business to transact with government, was to form acquaintances,
 try to secure friends, and wait for a favorable opportunity. Austin
@@ -327,6 +372,8 @@ the Spanish language; for when he arrived. at Mexico, he labored
 under the disadvantages of being a foreigner, a total stranger, and igno<pc force="weak">-</pc><lb break="no" />rant
 of the language of the country, except what little he had acquired
 in his first trip to Bexar, and on his journey to the capital. 1
+</p>
+<p>
 On the examination into the state of this colonisation business, he
 found that the regency had decided, that the governor of Texas, Mar<pc force="weak">-</pc><lb break="no" />tinez,
 was not sufficiently authorised to stipulate what quantity of land
@@ -337,8 +384,9 @@ transmitted by the regency to congress. This at once explained the
 reason, why governor Martinez urged Austin to go to Mexico, for he
 was doubtless well aware, that in the then existing state of political
 affairs, nothing would be done in the business unless some one was pres<pc force="weak">-</pc><lb break="no" />ent
-to attend to it.
-Austin endeavored to procure the despatch of his business by means
+to attend to it.</p>
+
+<p>Austin endeavored to procure the despatch of his business by means
 of a special law, but found it to be impracticable, owing to several pe<pc force="weak">-</pc><lb break="no" />titions
 having been presented for colonies, which gave rise to an idea
 among the members, that a general colonisation law ought to be passed,
@@ -368,9 +416,12 @@ law to its first stage; all had to be begun de novo; a new colonisation
 committee was appointed, a new law was reported, though not differing
 much from the former, which finally passed, and was approved by the
 emperor, and promulgated on the 4th of January, 1823.
-(9)</p><pb n="10" xml:id="P10" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/18/" /><p>10
-Laws, Orders and Contracts
-Thus, eight months after his arrival in the capital, Austin had the
+</p>
+
+<pb n="10" xml:id="P10" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/18/" />
+<fw type="header" place="top">Laws, Orders and Contracts</fw>
+
+<p>Thus, eight months after his arrival in the capital, Austin had the
 satisfaction of finding himself advanced one step; a colonisation law was
 enacted and promulgated. The next step was to procure the despatch
 of his business from the executive, a task which at first promised to be
@@ -392,8 +443,7 @@ which would result to the nation, from settling the wilderness of Texas,
 to which he was very favorably inclined: also, a number of the members
 of the Junta Instituyente, and of the council of state, were favorably
 disposed towards the enterprise: added to all of which, the claims of
-Austin, on the attention and justice of government, were strong and in<pc force="weak">-</pc><lb break="no" />controvertible.
-He came into Texas with the emigrant settlers, in vir<pc force="weak">-</pc><lb break="no" />tue
+Austin, on the attention and justice of government, were strong and in<pc force="weak">-</pc><lb break="no" />controvertible. He came into Texas with the emigrant settlers, in vir<pc force="weak">-</pc><lb break="no" />tue
 of a permission, legally granted to his father, by the competent
 Spanish authorities, previous to the change of government; he was also
 officially conducted into the country, by a ‘commissioner, expressly ap<pc force="weak">-</pc><lb break="no" />pointed
@@ -411,19 +461,23 @@ that body, who reported their opinion relative to it, on the 14th of Jan<pc forc
 and on the 18th of February, 1823, the minister Andres Quintana,
 issued the emperor’s final decree on the subject. This decree was con<pc force="weak">-</pc><lb break="no" />formable,
 in general, to the advice given to the emperor, by the council,
-in their report, though not exactly, in every particular.
-The great object which took Austin to Mexico being accomplished,
+in their report, though not exactly, in every particular.</p>
+
+<p>The great object which took Austin to Mexico being accomplished,
 he made preparation to depart immediately for Texas, and intended
 to have started on the 23d of February, but, previous to that day in<pc force="weak">-</pc><lb break="no" />formation
 reached the city, relative to the progress of the revolution
 against the emperor which convinced all reflecting men, that a great
-political change of some kind was near at hand.
-On the 2d December, Gen. Santa Ana, who commanded at Vera Cruz,
+political change of some kind was near at hand.</p>
+
+<p>On the 2d December, Gen. Santa Ana, who commanded at Vera Cruz,
 raised the standard of opposition to the arbitrary proceedings of Itur<pc force="weak">-</pc><lb break="no" />bide,
 and on the 6th, in union with the civil authorities of that city,
 he published a “plan;” the basis of which was the re-union of the same
-(10)</p><pb n="11" xml:id="P11" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/19/" /><p>for Austin’s Colony.
-11
+
+<pb n="11" xml:id="P11" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/19/" />
+<fw type="header" place="top">for Austin’s Colony.</fw>
+
 congress, whose members had been dispersed by the arbitrary order of
 the emperor, on the 31st October; and that its deliberations should be
 free from military restraint. General Victoria suddenly appeared from
@@ -465,8 +519,9 @@ would be good; and others thought that it would be safer to obtain the
 sanction of congress. It was sufficient for Austin, that any doubt ap<pc force="weak">-</pc><lb break="no" />peared
 to exist; and he determined to suspend his journey to Texas, and
 wait the meeting of congress, which it was now evident, must soon take
-place.
-Early in February, the emperor marched out of the city in person, at
+place.</p>
+
+<p>Early in February, the emperor marched out of the city in person, at
 the head of all the troops he could collect, and occupied a station at the
 village of Istapaluca, five leagues on the road to Puebla. Finding, how<pc force="weak">-</pc><lb break="no" />ever,
 that he could not rely upon his troops, and that the opposing force,
@@ -476,8 +531,10 @@ he consented to a cessation of hostilities, and commissioners were ap<pc force="
 on both sides, to treat. ' The said commissioners met in the
 village of Mexicansingo, a few leagues out of the capital, and agreed in
 substance: that the emperor should retire to Tacubaya, three leagues
-(11)</p><pb n="12" xml:id="P12" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/20/" /><p>12
-Laws, Orders and Contracts
+
+<pb n="12" xml:id="P12" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/20/" />
+<fw type="header" place="top">Laws, Orders and Contracts</fw>
+
 from the city; that congress should convene, as soon as its dispersed
 members could be collected; and that all parties should unconditionally
 submit to whatever congress might dictate; neither to have any troops
@@ -512,6 +569,8 @@ by the government now established; and finally, said decree banished
 Iturbide from the Mexican territory forever; but assigned him $25,000
 annually, (provided he resided in some part of Italy,) and fixed a pension
 of $8,000 annually on his family after his death.
+</p>
+<p>
 In consequence of the decree, of Sth April, Austin presented a mem<pc force="weak">-</pc><lb break="no" />orial
 to congress, together with the concession which he had obtained
 from the last government on the 18th February; and petitioned congress
@@ -528,16 +587,22 @@ to Austin by the imperial government, on the 18th of February, 1823;
 and said decree was circulated by the minister of interior and exterior
 relations, Don Garcia Ilueca, to the captain-general of the internal pro<pc force="weak">-</pc><lb break="no" />vinces;
 and a certified copy of it was' delivered to Austin.
+</p>
+<p>
 Thus, after one year’s detention and exertion in Mexico, Austin, at
 last, had the satisfaction of leaving there, with his business despatched
-(12)</p><pb n="13" xml:id="P13" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/21/" /><p>for Austin’s Colony.
-13
+
+<pb n="13" xml:id="P13" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/21/" />
+<fw type="header" place="top">for Austin’s Colony.</fw>
+
 and confirmed by all the governments which had ruled the Mexican
 nation, during the said year; and as the last confirmation was by the
 sovereign constitutent congress, whose members were the acknowledged
 and legal representatives of the people of the nation, there could no
 shadow of doubt remain, as to the legality and validity of his conces<pc force="weak">-</pc><lb break="no" />sion;
 and on the 28th day of April, he departed from the capital.
+</p>
+<p>
 On his arrival at Monterrey, the capital of the eastern internal pro<pc force="weak">-</pc><lb break="no" />vinces,
 he presented a consultation to the commandant-general, Don
 Felipe de la Garza, requesting special instructions, and copies of the
@@ -564,6 +629,8 @@ committed to him with the most extensive powers, but without any copies
 of laws, or specific instructions whatever, for his guide; the act of the
 deputation, therefore, left the matter in substance, precisely where the
 decree of 18th of February had placed it.
+</p>
+<p>
 On the 17th of July, the governor of Texas, Don Luciano Garcia, ap<pc force="weak">-</pc><lb break="no" />pointed
 the Baron de Bastrop, commissioner on the part of the govern<pc force="weak">-</pc><lb break="no" />ment,
 to survey the lands for the settlers of the new colony, and in
@@ -572,6 +639,8 @@ conformably to the decree of 18th February, 1823. The said
 governor, by an official act dated the 26th July, also gave the name of
 “San Felipe de Austin,” to the town, which was to be laid off for the
 capital of the new colony.
+</p>
+<p>
 In August Austin arrived in the colony in company with the com<pc force="weak">-</pc><lb break="no" />missioner
 Baron de Bastrop. The settlement was nearly broken up in
 consequence of his long detention in Mexico, and emigration had totally
@@ -582,10 +651,14 @@ by this means the settlement of those sections of country was com<pc force="weak
 Such arrangements were made by the commissioner, Bastrop,
 as were necessary, and he then returned to Bexar to fill his station as
 a member of the deputation of Texas.
+</p>
+<p>
 In 1824 the commissioner, Bastrop, again returned to the colony, and,
 in union with Austin, issued the titles to the settlers, for the lands which
-(.13)</p><pb n="14" xml:id="P14" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/22/" /><p>14
-Laws, Orders and Contracts
+
+<pb n="14" xml:id="P14" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/22/" />
+<fw type="header" place="top">Laws, Orders and Contracts</fw>
+
 had been surveyed up to that time; but, as the said Bastrop had been
 elected a member of the legislature of the state of Coahuila and Texas,
 just established, he could not remain long enough to complete the sur<pc force="weak">-</pc><lb break="no" />veys
@@ -596,15 +669,18 @@ together with the other unfinished business of the colony, was completed
 by the commissioner Gasper Floris, who was specially comissioned -for
 that purpose by the lieutenant governor of the state of Coahuila and
 Texas, Don Victor Blanco, then exercising the duties of governor.
-By referring to the 23d article of the law of 4th January, 1823, it
+</p>
+
+<p>By referring to the 23d article of the law of 4th January, 1823, it
 will be seen that the lands granted under that law, in virtue of the con<pc force="weak">-</pc><lb break="no" />cession
 of the 18th February of the same year, are subject to the con<pc force="weak">-</pc><lb break="no" />dition
 of being cultivated by the grantee, within two years from the
 date of the title, and the same condition is also inserted in each of the
 titles; which condition being complied with, the title is unconditional,
 clear, absolute and inviolable, as will be seen by examining said law, and
-particularly the 22d article.
-As regards the limits of the old colony, it will be seen by reference
+particularly the 22d article.</p>
+
+<p>As regards the limits of the old colony, it will be seen by reference
 to the concession of the emperor, of 18th February, 1823, that specific
 limits were not considered necessary, because the colony would be com<pc force="weak">-</pc><lb break="no" />posed
 of the lands occupied by .said 300 families. The rambling dis<pc force="weak">-</pc><lb break="no" />position
@@ -625,8 +701,9 @@ tract of country. The good policy of this scattering system is 1
 now daily proved: corn, pork, &amp;c., can now be had in every direction,
 without the trouble of distant transportation. It is, however, also at<pc force="weak">-</pc><lb break="no" />tended
 with inconveniences which hardy enterprise alone would sub<pc force="weak">-</pc><lb break="no" />mit
-to.
-The foregoing narrative, with an examination of the documents re<pc force="weak">-</pc><lb break="no" />ferred
+to.</p>
+
+<p>The foregoing narrative, with an examination of the documents re<pc force="weak">-</pc><lb break="no" />ferred
 to, will, it is believed, be sufficient to explain to the settlers of the
 first colony how, and under what authority, they originally came into
 this country; the delays growing out of the revolutionary state of politi<pc force="weak">-</pc><lb break="no" />cal
@@ -634,12 +711,15 @@ affairs, and other circumstances, that were beyond the control of
 Austin, which embarrassed the progress of ■ the settlement in its first
 stages; the exertions made by him to remove these embarrassments, and
 procure titles for the settlers; and finally, the nature and validity of these
-titles.
-As regards the local government of the colony, it will be sufficient
+titles.</p>
+
+<p>As regards the local government of the colony, it will be sufficient
 to state, that Austin finding on his return from Mexico, that it would
 be impossible for him to attend to the land business of the settlers,
-(14)</p><pb n="15" xml:id="P15" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/23/" /><p>for Austin’s Colony.
-15
+
+<pb n="15" xml:id="P15" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/23/" />
+<fw type="header" place="top">for Austin’s Colony.</fw>
+
 and the civil affairs of the local government, and also to attend in per<pc force="weak">-</pc><lb break="no" />son,
 to the administration of justice, through all its perplexing details,
 in every small case that might occur; continued the two alcalde’s dis<pc force="weak">-</pc><lb break="no" />tricts,
@@ -650,8 +730,9 @@ elected by the people in each; he gave these alcades jurisdiction to 200
 dollars, with an appeal to him, as the judge of the colony, on all sums
 over 25 dollars. He also formed a code of provisional regulations, in
 civil and criminal matters, which was approved by the governor of
-Texas.
-In the month of September, 1824, Mr. Samuel M. Williams was ap<pc force="weak">-</pc><lb break="no" />ponted
+Texas.</p>
+
+<p>In the month of September, 1824, Mr. Samuel M. Williams was ap<pc force="weak">-</pc><lb break="no" />ponted
 by Austin, secretary of the local government of the colony, which
 appointment was approved by the governor of Texas, and since that
 time, he has discharged the duties of that office with a degree of fidelity
@@ -690,10 +771,13 @@ was truly copied from the original, and then sign their names,
 with two witnesses. This was an immense labor; for, independent of the
 documents and title deeds, it also included the plot of each tract, at
 the end of the title. Austin paid the surveyor, Seth Ingram at the rate
-of five dollars per day, for this part of the work.
-It will be seen by an examination of the authority that was vested
-(15)</p><pb n="16" xml:id="P16" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/24/" /><p>16
-Laws, Orders and Contracts
+of five dollars per day, for this part of the work.</p>
+
+<p>It will be seen by an examination of the authority that was vested
+
+<pb n="16" xml:id="P16" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/24/" />
+<fw type="header" place="top">Laws, Orders and Contracts</fw>
+
 in Austin relative to the local government of the colony, that it was
 extensive, and without clearly defined limits, except submission to the
 governor of Texas, and the commandant general; and that consequently
@@ -701,10 +785,8 @@ the degree of moral, as well as personal responsibility, which rested upon
 him indivdually, was co-extensively great. Had he been furnished with
 laws and fixed rules for a guide, his responsibility would have depended
 on his observance of, or departure from those laws or fixed rules; but
-placed as he was, a peculiar or
-prejudiced view of his acts, by his su<pc force="weak">-</pc><lb break="no" />periors,
-might have involved him in total ruin
-or unmerited disgrace. It
+placed as he was, a peculiar or prejudiced view of his acts, by his su<pc force="weak">-</pc><lb break="no" />periors,
+might have involved him in total ruin or unmerited disgrace. It
 will also be seen that no salary or alowance whatever was assigned him,
 to defray the expenses of the local government, all of which consequently
 had to be borne by himself, and which in this jurisdiction were many,
@@ -723,10 +805,8 @@ on his contract with the government, to undertake that labor, or not,
 as he pleased. Why then did he accept of so heavy and expensive
 a charge? — He accepted it because it was necessary for the advance<pc force="weak">-</pc><lb break="no" />ment
 of the colony that some one should do so; and no
-one would have
-accepted it without a compensation; he considered that he was
-bound
-by the original contracts, which he thought were fairly and publicly
+one would have accepted it without a compensation; he considered that he was
+bound by the original contracts, which he thought were fairly and publicly
 made, between him and the settlers, previous to the commencement
 of the colony, as heretofore stated, to be at all the labor and expense of
 procuring the titles, and advancing the .settlement, so far as it lay in his
@@ -739,19 +819,22 @@ of the sections promised by Austin. His expectations, however, were
 all disappointed; the original contracts passed away, and the colony was
 dragged forward, amidst pecuniary embarrassments and poverty, with
 the fatal weight of internal opposition superadded to its other diffi<pc force="weak">-</pc><lb break="no" />culties.
-
+</p>
+<p>
 Some misunderstanding has heretofore existed in regard to the pay<pc force="weak">-</pc><lb break="no" />ments
-on land in this colony. Tor instance, it has been stated by those
+on land in this colony. For instance, it has been stated by those
 who knew nothing of the law, or of the subject, that Austin sold the
 land to the settlers; that he exacted from them what he had no right
-by law to exact; that he was speculating on the settlers, &amp;e., &amp;c. Never
+by law to exact; that he was speculating on the settlers, &amp;c., &amp;c. Never
 has he asked one settler to pay him one cent in virtue of the colonisation,
 or any other law, except the law of mutual good faith, between man
 and man, in their private and individual dealings. He entered into a
 fair and equitable contract with them, in a public and open manner,
-in 1821, binding himself to do certain things for their benefit; to wit—•
-(16)</p><pb n="17" xml:id="P17" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/25/" /><p>for Austin’s Colony.
-17
+in 1821, binding himself to do certain things for their benefit; to wit—
+
+<pb n="17" xml:id="P17" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/25/" />
+<fw type="header" place="top">for Austin’s Colony.</fw>
+
 to receive them in the number of the three hundred families, which he
 was authorised to introduce, and settle in Texas; a privilege which, at
 that time, was not, and never before had been granted, to any foreign<pc force="weak">-</pc><lb break="no" />ers,
@@ -803,11 +886,12 @@ to a life of toil and privations in a wilderness. He also made engage<pc force="
 in 1821, which, added to other pecuniary embarrasments, growing
 out of this colonisation business, has kept him too poor even to afford
 the means of living with that decency which would be expected from
-the head of such an enterprise as this; and which, in fact, the respect<pc force="weak">-</pc><lb break="no" />2—VOL.
-i.
-(17)</p><pb n="18" xml:id="P18" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/26/" /><p>18
-Laws, Orders and Contracts
-ability of the settlement itself, would seem to require; and if what land
+the head of such an enterprise as this; and which, in fact, the respect<pc force="weak">-</pc><lb break="no" />ability
+
+<pb n="18" xml:id="P18" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/26/" />
+<fw type="header" place="top">Laws, Orders and Contracts</fw>
+
+of the settlement itself, would seem to require; and if what land
 he has acquired, (and he has but little else,) was valued at its present
 rates, he is now nearly insolvent. Other men, who have never had any
 other trouble than to attend to their private affairs, and to receive their
@@ -829,8 +913,7 @@ original contracts, from any one, unless it was also exacted from all; thus,
 those contracts passed away forever; and the payments on the land titles
 were regulated by the political chief or governor of Texas, by a fee bill
 which he published the 20th of May, 1824: those payments were for the
-commissioner’s fees, office fees, stamp paper, surveying fees, &amp;c. A con<pc force="weak">-</pc><lb break="no" />siderable
-number of the settlers have never to this day paid those fees,
+commissioner’s fees, office fees, stamp paper, surveying fees, &amp;c. A con<pc force="weak">-</pc><lb break="no" />siderable number of the settlers have never to this day paid those fees,
 that part of them who are too poor have never been called on. The por<pc force="weak">-</pc><lb break="no" />tion
 of their fees that had to be promptly paid before they could have
 gotten a title, has been raised for them by Austin, out of other means.
@@ -842,7 +925,8 @@ truly said, to the honor of the North American character, that the mur<pc force=
 part of the settlers is limited to a very small number, and it is
 to be hoped that what has appeared to be ingratitude, even in them, has
 arisen solely, from not understanding the subject, rather than from dis<pc force="weak">-</pc><lb break="no" />position.
-
+</p>
+<p>
 It is just to correct another erroneous idea, that at one time prevailed,
 which was, that the fees were paid in money. Money was required from
 those who it was known had it to spare, which was used to make up
@@ -859,8 +943,10 @@ that is was the interest of all to get the settlement under way, and that
 if poor men had been turned off, because they could not pay the fees,
 the settlement would have been thinned so much, that it would have
 been totally broken up. A clamor was raised, and, strange as it may
-(18)</p><pb n="19" xml:id="P19" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/27/" /><p>for Austin’s Colony.
-19
+
+<pb n="19" xml:id="P19" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/27/" />
+<fw type="header" place="top">for Austin’s Colony.</fw>
+
 now appear, some of the poorer class, who were most benefitted by that
 system, joined in it. The mass of the settlers who have paid any thing,
 paid it in cows, at twenty to twenty-five dollars a head, corn at two or
@@ -896,6 +982,8 @@ manifestations of confidence from the settlers, themselves, in
 general; which to him is the most gratifying testimonial that could pos<pc force="weak">-</pc><lb break="no" />sibly
 be offered; for they ought to be the best judges of his acts, having
 witnessed them all, and been immediately interested.
+</p>
+<p>
 The foregoing remarks relative to the payments on land, and to the
 local government of the colony, are made, in order to correct some er<pc force="weak">-</pc><lb break="no" />roneous
 impressions that at one time prevailed on the subject. It is no
@@ -913,8 +1001,10 @@ it was natural, as regards the twelve and a half cents per acre, for the
 settlers to make a gross calculation of the amount, that all the land dis<pc force="weak">-</pc><lb break="no" />tributed
 in the colony would come to, and suppose that all that sum
 was to .go into the pockets of Austin, for they made no allowance for
-(19)</p><pb n="20" xml:id="P20" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/28/" /><p>20
-Laws, Orders and Contracts
+
+<pb n="20" xml:id="P20" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/28/" />
+<fw type="header" place="top">Laws, Orders and Contracts</fw>
+
 many of the settlers who would be unable to pay any thing at least for
 many years; neither did they make allowance for the incalculable loss
 on payments in produce, and property, at double, and treble, its cash
@@ -942,7 +1032,8 @@ to themselves and families, required the settlers to be cautious about in<pc for
 pecuniary responsibilities; abundant reasons may be discovered
 why they should think that causes for jealousy and complaints against
 Austin existed; they doubtless thought they were right, and acted ac<pc force="weak">-</pc><lb break="no" />cordingly.
-
+</p>
+<p>
 A candid and impartial review of the whole matter, therefore, leads
 to the conclusion, that the settlers have done their duty, and have been
 much clearer from internal dissensions, than could be expected, under
@@ -965,10 +1056,13 @@ class here, for Austin had no force but the militia, which was composed
 of the settlers themselves. As regards the general morality and hospi<pc force="weak">-</pc><lb break="no" />tality
 of the inhabitants, and the commission of crime, this settlement
 will bear a favorable comparison with any county in the United States,
-however celebrated for its exemption from such crimes.
-If, having escaped many perils, is to be considered as a presage, that
-(20)</p><pb n="21" xml:id="P21" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/29/" /><p>for Austin’s Colony.
-21
+however celebrated for its exemption from such crimes.</p>
+
+<p>If, having escaped many perils, is to be considered as a presage, that
+
+<pb n="21" xml:id="P21" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/29/" />
+<fw type="header" place="top">for Austin’s Colony.</fw>
+
 fortune has taken this new settlement under her protection, there is
 abundant reason for hoping that it will prosper in future. It was under<pc force="weak">-</pc><lb break="no" />taken,
 and has been established by individual enterprise alone, without
@@ -983,31 +1077,36 @@ changes were from the despotic government of Spain to the- independent
 government under the regency,in 1821-22,from that to the imperial gov<pc force="weak">-</pc><lb break="no" />ernment
 in 1822-23, from that to the republic under the supreme execu<pc force="weak">-</pc><lb break="no" />tive
 power, in 1823-24, and from that to the federal system, which now
-exists.
-The foregoing observations have been exclusively confined to the first,
+exists.</p>
+
+<p>The foregoing observations have been exclusively confined to the first,
 or “old colony," as it is frequently called. The colonisation laws which
 are generally in force at this time, will now be noticed, and also the
 contracts entered into, with the government, by Austin, under those
 laws, in order that the emigrants who have been settled, or who may
 wish to settle under said contracts, may fully understand the subject,
-and the nature of their titles.
-In order to give a clear idea of the authority which enacted those
+and the nature of their titles.</p>
+
+<p>In order to give a clear idea of the authority which enacted those
 laws, the decrees of congress establishing the federal system, will be
-first referred to.
-On the 17th June, 1823, congress decreed that a new constituent
+first referred to.</p>
+
+<p>On the 17th June, 1823, congress decreed that a new constituent
 congress should be elected by the people, for the express purpose of
 adopting the form of government, forming the constitution, and or<pc force="weak">-</pc><lb break="no" />ganising
 the nation, agreeably to the will of the people; which would
 be fairly expressed by said new congress, thus elected for that purpose.
 The members of the first congress were ineligible to be elected for the
-second.
-On the 19th of the same month, congress passed a resolution directing
+second.</p>
+
+<p>On the 19th of the same month, congress passed a resolution directing
 the supreme executive power, to inform the people that the then existing
 congress were in favor of the federal republican system of government,
 but had not formally adopted that system, and proceeded to form the
 constitution, because it had decreed on the 17th, that a new congress
-should be elected for that purpose.
-The first congress finally closed its sessions on the 30th of October;
+should be elected for that purpose.</p>
+
+<p>The first congress finally closed its sessions on the 30th of October;
 and the second constituent congress, whose members had been elected
 in virtue of the decree of 17th June, convened and opened its sessions
 on the 5th of November. On the 31st of January, 1824, congress de<pc force="weak">-</pc><lb break="no" />creed
@@ -1015,15 +1114,18 @@ the “Acta Constituvia de la Federacion Mexicana” or act of con<pc force="wea
 by which the federal system was formally adopted, and the
 basis and outlines of the government established. The federal con<pc force="weak">-</pc><lb break="no" />stitution,
 however, was not finally sanctioned and promulgated until the
-4th of October.
-On the 7th of May, congress decreed that the former provinces of
+4th of October.</p>
+
+<p>On the 7th of May, congress decreed that the former provinces of
 Coahuila and Texas should form a state and proceed immediately to
 elect its legislature; but that so soon as the latter should be in a situation
 to form a separate state of itself, the national congress should be- in<pc force="weak">-</pc><lb break="no" />formed
-thereof for its resolution.
-(21)</p><pb n="22" xml:id="P22" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/30/" /><p>22
-Laws, Orders and Contracts
-It will be remembered that the colonisation law, passed by the im<pc force="weak">-</pc><lb break="no" />perial
+thereof for its resolution.</p>
+
+<pb n="22" xml:id="P22" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/30/" />
+<fw type="header" place="top">Laws, Orders and Contracts</fw>
+
+<p>It will be remembered that the colonisation law, passed by the im<pc force="weak">-</pc><lb break="no" />perial
 government on the 4th of January, 1823, was suspended on the
 11th of April of that year, except in Austin’s case. On the 18th of
 August, 1824, congress passed the general colonisation law, which is
@@ -1032,8 +1134,9 @@ laws, and to dispose of the vacant lands within their respective limits
 agreeably to the basis and conditions therein established. In virtue of
 this law, the legislature of the state of Coahuila and Texas passed the
 state colonisation law, which was approved by the governor, and promul<pc force="weak">-</pc><lb break="no" />gated
-the 24th of March, 1825, and is now in force.
-In 1824, there was no mail established from Bexar to Nacogdoches,
+the 24th of March, 1825, and is now in force.</p>
+
+<p>In 1824, there was no mail established from Bexar to Nacogdoches,
 passing through this place, as at this time, and the law of the 18th of
 August was not received here until December: previous to that time,
 and on the 6th of November, Austin forwarded a petition addressed
@@ -1071,14 +1174,18 @@ within which they were to be settled, were fixed. The term of six years
 from the 4th June, 1825, the day on which Austin signed it, is fixed
 for the completion of this contract for five hundred families. On the
 1st of April, 1826, the government commissioned Gasper Flores, commis<pc force="weak">-</pc><lb break="no" />sioner
-for issuing titles in said colony, for five hundred families.
-On the 20th November, 1827, Austin entered into another contract
-with the government of the state, for one hundred families to'be settled
-(22)</p><pb n="23" xml:id="P23" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/31/" /><p>for Austin’s Colony.
-23
+for issuing titles in said colony, for five hundred families.</p>
+
+<p>On the 20th November, 1827, Austin entered into another contract
+with the government of the state, for one hundred families to be settled
+
+<pb n="23" xml:id="P23" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/31/" />
+<fw type="header" place="top">for Austin’s Colony.</fw>
+
 on the east side of the Colorado, above the San Antonio road. The
-contract expires six years from its date.
-On the 5th June, 1826, Austin petitioned the president for permission
+contract expires six years from its date.</p>
+
+<p>On the 5th June, 1826, Austin petitioned the president for permission
 to colonise the vacant land lying within the ten league reserve, on the
 coast from Labaca to San Jacinto, and on the 22d of April, 1828, the
 president granted said petition, in virtue of which, a contract was en<pc force="weak">-</pc><lb break="no" />tered
@@ -1087,14 +1194,16 @@ families within said ten league reserve, which contract expires six years
 from the 29th July, 1828, that being the day on which he'signed said
 contract. Austin is also appointed the government commissioner, for
 surveying the land, and issuing titles to said three hundred families,
-within said ten league reserve colony.
-It is not considered necessary to make any remarks on the national
+within said ten league reserve colony.</p>
+
+<p>It is not considered necessary to make any remarks on the national
 law of 18th August, 1824, on the state law of 25th March, 1825, nor
 on the contracts or the instructions to Austin, as commissioner of the
-reserve lands on the coast, for translations of them all are herein pub<pc force="weak">-</pc><lb break="no" />lished;—here
-this introduction will therefore close.
-ADVERTISEMENT.
-In the foregoing introduction, I have endeavored to present to my
+reserve lands on the coast, for translations of them all are herein pub<pc force="weak">-</pc><lb break="no" />lished;—here this introduction will therefore close.</p>
+
+<head>ADVERTISEMENT.</head>
+
+<p>In the foregoing introduction, I have endeavored to present to my
 companions and fellow laborers in the first settlement of this wilder<pc force="weak">-</pc><lb break="no" />ness,
 a faithful history of their land titles, which was considered neces<pc force="weak">-</pc><lb break="no" />sary
 for the better understanding of the laws, decrees, &amp;c., herein pub<pc force="weak">-</pc><lb break="no" />lished.
@@ -1104,12 +1213,11 @@ one could not be fully explained without giving a detailed account of
 the other: which, it is hoped, will be a sufficient apology for having
 noticed so minutely all his and my own acts in the business. I also con<pc force="weak">-</pc><lb break="no" />sidered
 that it was no more that justice to the settlers and to myself to
-place the whole matter in its true light, in order to remove any
-eous impressions which may have existed.
-This colony has received the most cordial and uninterrupted
-erron<pc force="weak">-</pc><lb break="no" />mam-
+place the whole matter in its true light, in order to remove any erron<pc force="weak">-</pc><lb break="no" />eous
+impressions which may have existed.</p>
 
-festations of liberality, confidence, and kindness from every superior
+<p>This colony has received the most cordial and uninterrupted mani<pc force="weak">-</pc><lb break="no" />festations
+of liberality, confidence, and kindness from every superior
 officer, who has governed the province of Texas, or the state of Coahuila
 and Texas, from its first commencement to the present time; and for
 its services on one occasion, it received in flattering terms the appro<pc force="weak">-</pc><lb break="no" />bation
@@ -1119,28 +1227,33 @@ of the great mass of the settlers. But to say that there are no bad men
 here would be a violation of candor and truth. There are some individ<pc force="weak">-</pc><lb break="no" />uals
 who are exceptions to the highly honorable general character which
 these inhabitants justly deserve, and who are meeting their reward in
-the frowns of public opinion.
-As stated in the introduction, the object was not to give a minute
+the frowns of public opinion.</p>
+
+<p>As stated in the introduction, the object was not to give a minute
 history of the colony, except so far as was necessary to a clear eluci<pc force="weak">-</pc><lb break="no" />dation
 of the authority under which it was undertaken, and has pro<pc force="weak">-</pc><lb break="no" />gressed.
 To have entered into the particulars of all the privations, In<pc force="weak">-</pc><lb break="no" />dian
 expeditions, &amp;c., would have swelled the introduction to a size, be<pc force="weak">-</pc><lb break="no" />yond
 what the present means of printing it would permit; and besides,
-(23)</p><pb n="24" xml:id="P24" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/32/" /><p>24
-Laws, Orders and Contracts
+
+<pb n="24" xml:id="P24" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/32/" />
+<fw type="header" place="top">Laws, Orders and Contracts</fw>
+
 such a detail would have added nothing material to an understanding
 of the nature and validity of the titles, except so far as it tended to
 prove that the settlers have fully earned, and justly deserved all the
 land, and privileges they have obtained. This, however, is a fact too
 evident to require any other proofs for its establishment, than those
-■which are self-evident, and publicly known.
-The translations have been carefully made by Mr. S. M. Williams,
+which are self-evident, and publicly known.</p>
+
+<p>The translations have been carefully made by Mr. S. M. Williams,
 and myself. It is believed, that should there be any inaccuracies in
 them, they will be found on examination, to be more of a verbal and
 unimportant, than of a substantial nature: the originals, however, will
 always be open in the office, to the inspection of those who wish to
-examine them.
-I should consider that I had not fully complied with my duty,
+examine them.</p>
+
+<p>I should consider that I had not fully complied with my duty,
 were I to refrain from calling the attention of the settlers to a subject,
 perhaps of as much importance to them, as the acquisition of their titles
 has been; which is, the preservation and safe keeping of the records.
@@ -1165,8 +1278,9 @@ government, and it is their duty so to do; a duty which the people owe
 to themselves, to their own security, and to the protection of their best
 interests, which are involved in the safe keeping of the records, and sup<pc force="weak">-</pc><lb break="no" />porting
 the local government of the municipality; to pay said tax, so
-far as is necessary and reasonable, with promptness and cheerfulness.
-It is well known that up to February, 1828, the labor and expense
+far as is necessary and reasonable, with promptness and cheerfulness.</p>
+
+<p>It is well known that up to February, 1828, the labor and expense
 of the local government fell principally on me, individually, and that
 since that period all the Spanish part of the labor has fallen on Wil<pc force="weak">-</pc><lb break="no" />liams
 and myself, without any compensation. It is also well known,
@@ -1180,8 +1294,10 @@ unpopular, and feared to move. I repeated the advice to the ayun<pc force="weak"
 of 1829, and strongly urged the vast importance of giving
 respectability, system, and permanency to the local government, by the
 creation of municipal funds, and the erection of public buildings: as
-( 24)</p><pb n="25" xml:id="P25" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/33/" /><p>for Austin’s Colony.
-25
+
+<pb n="25" xml:id="P25" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/33/" />
+<fw type="header" place="top">for Austin’s Colony.</fw>
+
 the friend of the settlers, I again repeat the same advice. The muni<pc force="weak">-</pc><lb break="no" />cipality
 is without a jail, a house for public use, or a place to keep the
 records in; and it is also without a secretary, when it is well known
@@ -1214,26 +1330,36 @@ when at the seat of government in 1827, the local government of
 this municipality was placed exclusively in the hands of the people,
 sooner than it otherwise would have been; and all that I now ask, is that
 they will provide the necessary means of administering it, for their own
-welfare.
-With the most sincere wishes for the continued health and prosperity
-of these settlers,
-I remain their most obedient and faithful servant,
+welfare.</p>
+
+<p>With the most sincere wishes for the continued health and prosperity
+of these settlers,</p>
+
+<p>I remain their most obedient and faithful servant,
 S. F. AUSTIN.
-San Felipe de Austin, Nov. 1, 1829.
-TRANSLATIONS.
+San Felipe de Austin, Nov. 1, 1829.</p>
+
+<head>TRANSLATIONS.</head>
+
+<p>
 [No. 1.] — Official Communications from Don Antonio Martinez,
-Governor of Texas, to Moses Austin.
-Under date of 17th January, last past, the commandant general,
+Governor of Texas, to Moses Austin.</p>
+
+<p>Under date of 17th January, last past, the commandant general,
 and superior political chief of the eastern internal provinces writes to
-me as follows:
-"Having thought proper to hear the most excellent provincial de<pc force="weak">-</pc><lb break="no" />putations,
+me as follows:</p>
+
+<p>"Having thought proper to hear the most excellent provincial de<pc force="weak">-</pc><lb break="no" />putations,
 on the representation which your lordship, (usia) directed
 to me with your official letter, No. 1116, of the 26th December last,
-(25)</p><pb n="26" xml:id="P26" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/34/" /><p>26
-Laws, Orders and Contracts
+
+<pb n="26" xml:id="P26" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/34/" />
+<fw type="header" place="top">Laws, Orders and Contracts</fw>
+
 I have just received its resolution, to which I have conformed; it is
-of the following tenor:”
-“It will be very expedient to grant the permission solicited by Moses
+of the following tenor:”</p>
+
+<p>“It will be very expedient to grant the permission solicited by Moses
 Austin, that the three hundred families, which he says are desirous to
 do so, should remove and settle in the province of Texas, but under the
 conditions indicated in his petition on the subject, presented to the
@@ -1249,8 +1375,9 @@ the Spanish monarchy; the most flattering hopes may be formed, that
 the said province will receive an important augmentation, in agriculture,
 industry, and arts, by the new emigrants, who will introduce them;
 which is all that this deputation have to say, in reply to your lordship's
-aforementioned official letter.”
-“And I transcribe it to your lordship, for your information and cor<pc force="weak">-</pc><lb break="no" />responding
+aforementioned official letter.”</p>
+
+<p>“And I transcribe it to your lordship, for your information and cor<pc force="weak">-</pc><lb break="no" />responding
 effects, that you may cause the interested person to be in<pc force="weak">-</pc><lb break="no" />formed
 thereof, by means of a person of your confidence, who you will
 despatch with an express; and you will at the same time, send in by
@@ -1259,7 +1386,9 @@ of yesterday, granting a pardon and amnesty to the Spanish refugees,
 who are on the frontier, in order that they may be restored to the bosom
 of their country. God preserve your lordship many years. Monterey,
 17th January, 1821. Joaquin de Arredondo. To the governor of the
-province of Texas.”
+province of Texas.”</p>
+
+<p>
 All of which I transcribe to you, for your information and satisfac<pc force="weak">-</pc><lb break="no" />tion,
 in answer to your petition, for which purpose, and in order to
 inform you of the deliberations of the most excellent deputation of
@@ -1277,25 +1406,32 @@ they intend to establish; and also to receive from them the beforemen<pc force="
 oath, in order that they may be from that time considered, as
 members united to the Spanish nation, and enter upon the enjoyment
 of the benefits which it extends, and concedes to its citizens and to
-Spaniards.
-I also expect from the prudence which your deportment demonstrates,
+Spaniards.</p>
+
+<p>I also expect from the prudence which your deportment demonstrates,
 and for your own prosperity and tranquility, that all the families you
 introduce, shall be honest and industrious, in order that idleness and vice
 may not pervert the good and meritorious, who are worthy of Spanish
 esteem, and of the protection of this government, which will be extended
-(26)</p><pb n="27" xml:id="P27" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/35/" /><p>for Austin’s Colony.
-27
+
+
+<pb n="27" xml:id="P27" facs="https://texashistory.unt.edu/ark:/67531/metapth5872/m1/35/" />
+<fw type="header" place="top">for Austin’s Colony.</fw>
+
 to them, in proportion to the moral virtues displayed by each individual.
 I also inform you, in order that you may communicate it to those who
 intend to emigrate, that the supreme Spanish government has just
 opened the port of the bay of San Bernard, for navigation, and for intro<pc force="weak">-</pc><lb break="no" />ductions
 into this province, which measure, will doubtless be very ad<pc force="weak">-</pc><lb break="no" />vantageous
-to all, and particularly to the new settlers.
-God preserve you many years,
-ANTONIO MARTINEZ, Gov.
-Bexar, 8th February, 1821.
-To Mr. Moses AUSTIN, of the new settlement.
-[No. 2.]
+to all, and particularly to the new settlers.</p>
+
+<p>God preserve you many years,
+<lb />ANTONIO MARTINEZ, Gov.
+<lb />Bexar, 8th February, 1821.
+<lb />To Mr. Moses AUSTIN, of the new settlement.
+</p>
+
+<p>[No. 2.]
 {Same to the same.)
 Having seen your representation to this government, and finding it
 to be conformable with its ideas, I have to inform you that, although I
