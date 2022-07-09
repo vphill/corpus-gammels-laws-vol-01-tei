@@ -16,10 +16,14 @@
 	</teiHeader>
 	<text>
 		<front>
-			<xi:include href="00_front.xml"/>
+			<!-- <xi:include href="g00_front.xml"/> -->
 		</front>
 		<group>
-		      <xi:include href="05-fredonian-declaration-of-independence-1826.xml" />
+              <xi:include href="g01-austins-colonization-laws-1822.xml" />
+		      <!-- <xi:include href="g05-fredonian-declaration-of-independence-1826.xml" />
+              <xi:include href="g16-declaration-independence-1836.xml" />
+              <xi:include href="g18-laws-republic-first-congress-regular-called-sessions-1836-37.xml" /> -->
+
 		</group>
 		<back>
 		  <!-- back matter of first unitary text, if any -->
