@@ -62,9 +62,10 @@ for file in sorted(text_files):
         text = fp.read()
 
     text = text.replace('&', '&amp;')
+    text = text.replace('<', '&lt;')
+    text = text.replace('>', '&gt;')
     text = new_encode_hyphens(text)
     url = 'https://texashistory.unt.edu/ark:/67531/metapth5872/m1/{}/'.format(seq_n)
-
 
     pb = ET.SubElement(main_div, 'pb')
     pb.set('n', pg_n)
